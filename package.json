@@ -1,0 +1,18 @@
+{
+  "name": "minifabapi",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "express": "^4.17.1",
+    "got": "^10.7.0",
+    "promise": "^8.1.0"
+  },
+  "devDependencies" : {
+    "npm-run-all": "4.1.5"
+  },
+  "scripts": {
+    "startapi": "node server",
+    "startui": "cd ui && npm run start",
+    "startdev": "npm-run-all --parallel startapi startui"
+  }
+}

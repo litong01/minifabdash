@@ -1,0 +1,4 @@
+# comment
+.*
+Dockerfile*
+start.sh
