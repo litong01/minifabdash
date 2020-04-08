@@ -2,3 +2,4 @@
 .*
 Dockerfile*
 start.sh
+build.sh
