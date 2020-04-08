@@ -4,16 +4,16 @@ minifabric dashboard project
 
 # To develop
 ## build development image
-./build.sh dev
+    ./build.sh dev
 
 ## run the application in dev mode
-./start.sh dev
+    ./start.sh dev
 
 # To use
 ## build production image
-./build.sh
+    ./build.sh
 
 ## run the application in production mode
-./start.sh
+    ./start.sh
 
 
