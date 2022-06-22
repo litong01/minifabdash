@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "express": "^4.17.1",
-    "got": "^10.7.0",
+    "got": "^11.8.5",
     "promise": "^8.1.0"
   },
   "devDependencies" : {
